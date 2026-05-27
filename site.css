@@ -1,0 +1,31 @@
+/* site.css*/
+
+/*ID selector to turn the body red*/
+#main{color: #800000 ; font-family: arial;background: url(greenback.png);
+     background-size: 2000px 3000px;
+	
+		}
+
+/*Relative selector to turn Header 3 Green*/
+#main h3 {color: blue; letter-spacing: 10px; font-family: Impact;text-align: center;
+	}
+
+/*Class selector to create a yellow background and bold weight*/
+.yellow-background-bold-weight {background-color: yellow; font-weight: bold}
+
+.container {
+	 width: 989px;
+	 margin: 0 auto;
+	 background-color: darkgray
+}	 
+/* This is where I set a fixed value to have my footer pict in the bottom right corner*/
+.footer-image {
+	align-content: center;
+} 
+
+.CF-LOGO {
+	float: center;
+}
+a:visited
+{color: blue;
+decoration:none;}

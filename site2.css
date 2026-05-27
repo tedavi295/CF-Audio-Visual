@@ -1,0 +1,36 @@
+/* site.css* by Thomas Davidson on 11/13/2016 */
+
+/*ID selector to turn the body red*/
+#main{color: green; font-family: arial;
+	
+		}
+
+
+	}
+/*Set a container size for the entire page*/
+
+.container {
+	 width: 989px;
+	 margin: 0 auto;
+	 background-color: "yellow"
+	 align-content: center;
+}	
+
+/* This is where I set a fixed value to have my footer pict in the bottom right corner*/
+.footer-image {
+	align-content: center;
+} 
+
+.CF-LOGO {
+	float: center;
+}/*sets my inline box and border to red for specified text*/
+.box-border {
+
+	border-style:solid;5
+	border-color:red;
+	border-width: 5px;
+	display: inline-block;
+	width: 800px;
+
+
+}
